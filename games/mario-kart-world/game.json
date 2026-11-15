@@ -53,6 +53,26 @@
    "nup_needs_base": true
   },
   {
+   "id": "no-lag-kart",
+   "name": "No Lag Kart (1.8.0)",
+   "engine": {
+    "kind": "nxnative",
+    "repo": "https://github.com/kingbumi31/no-lag-kart",
+    "commit": "033cbe594bf8e0553320bc1dc343869921b541d2"
+   },
+   "versions": [
+    "v917504"
+   ],
+   "watch": [
+    ""
+   ],
+   "about": "kingbumi31's No Lag Kart (MIT): nxnative tuned for Mario Kart World 1.8.0 (update v917504), with 23 fixes and a 15,000-pipeline warm-up list. Its author measured 60 fps with 1 or 2 players and 30 with 4 on an M2 Pro with 16 GB, with almost no hitches; other Macs are not tested yet, and a smaller GPU may not hold those rates.",
+   "nup_needs_base": true,
+   "version_names": {
+    "v917504": "1.8.0"
+   }
+  },
+  {
    "id": "nxnative-mkw",
    "name": "Thijs2004's 1.8.0 version",
    "engine": {
@@ -67,7 +87,7 @@
    "watch": [
     ""
    ],
-   "about": "Thijs2004's nxnative port for Mario Kart World 1.8.0 (update v917504) (MIT): the only build here for a dump with the 1.8.0 update.",
+   "about": "Thijs2004's nxnative port for Mario Kart World 1.8.0 (update v917504) (MIT): the other build here for a dump with the 1.8.0 update (unchanged since 6 November).",
    "nup_needs_base": true,
    "version_names": {
     "v917504": "1.8.0"
@@ -76,8 +96,12 @@
  ],
  "choose": [
   {
+   "build": "no-lag-kart",
+   "why": "Your dump has the 1.8.0 update: No Lag Kart plays it with almost no stutter (Thijs2004's 1.8.0 version is the other choice)"
+  },
+  {
    "build": "nxnative-mkw",
-   "why": "Your dump has the 1.8.0 update: this is the build that plays it"
+   "why": "Your dump has the 1.8.0 update: Thijs2004's version plays it too"
   },
   {
    "memory_max": 16,
