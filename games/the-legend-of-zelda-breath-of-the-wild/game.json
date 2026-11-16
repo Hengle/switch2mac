@@ -44,7 +44,7 @@
    "engine": {
     "kind": "nxnative",
     "repo": "https://github.com/seedds/nxnative",
-    "commit": "8950f2ea0fc1cd8f4231682c6d6abc0969f16a58"
+    "commit": "27ae7736780ff91dd6a986bd5077adacfa23e6e0"
    },
    "about": "Upstream nxnative with Hermit's overlay and key-2 settings, for version 1.9.0.",
    "version_names": {
