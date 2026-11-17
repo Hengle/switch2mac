@@ -1,12 +1,12 @@
 # Nintendo Switch 2 Welcome Tour
 
-Title ID `040057C02159A000`, update v262144. Added automatically when [nxnative](https://github.com/seedds/nxnative) added its profile: see [nxnative's notes on it](https://github.com/seedds/nxnative/tree/8d62601f375fa8e15bb6d5948b416f63959a0a4d/dm/games/040057C02159A000) for how far it plays and on which Mac.
+Title ID `040057C02159A000`, update v262144. Added automatically when [nxnative](https://github.com/seedds/nxnative) added its profile: see [nxnative's notes on it](https://github.com/seedds/nxnative/tree/c3efaa900084b4977683d14b643a4a8488194cbe/dm/games/040057C02159A000) for how far it plays and on which Mac.
 
 Built with nxnative's own builder at the commit `game.json` names (fetched once into `./engines`), with Hermit's front end added (`tools/engine/patch.py`): the game starts at once, **key 1** is the performance overlay and **key 2** the settings.
 
 | What | |
 |---|---|
-| Profile and notes | [nxnative `dm/games/040057C02159A000`](https://github.com/seedds/nxnative/tree/8d62601f375fa8e15bb6d5948b416f63959a0a4d/dm/games/040057C02159A000) |
+| Profile and notes | [nxnative `dm/games/040057C02159A000`](https://github.com/seedds/nxnative/tree/c3efaa900084b4977683d14b643a4a8488194cbe/dm/games/040057C02159A000) |
 | Dump folder | `base/` and `updates/262144/` |
 
 ## Shared shader list
