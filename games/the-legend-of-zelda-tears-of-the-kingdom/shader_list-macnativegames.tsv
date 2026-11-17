@@ -1,2 +1,2 @@
-# switch2mac shared shader list	game=0100F2C0115B6000	engine=macnativegames-20753d3628cd
-# The Legend of Zelda: Tears of the Kingdom, built with macnativegames at 20753d3628cd. Rows: S<TAB>shader key<TAB>stage / C<TAB>compute shader key / R<TAB>render pipeline key (hex): identifiers and render state only, no game data.
+# switch2mac shared shader list	game=0100F2C0115B6000	engine=macnativegames-cee07b61f332
+# The Legend of Zelda: Tears of the Kingdom, built with macnativegames at cee07b61f332. Rows: S<TAB>shader key<TAB>stage / C<TAB>compute shader key / R<TAB>render pipeline key (hex): identifiers and render state only, no game data.
