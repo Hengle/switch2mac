@@ -44,7 +44,7 @@
    "engine": {
     "kind": "nxnative",
     "repo": "https://github.com/cheemu21/kid-with-sword-remake",
-    "commit": "717a9fbab8debf2dd7d6ba0c941a3a774462ec6a"
+    "commit": "811f362b89dec868b243c4e59afa1bc52ba490e7"
    },
    "shader_list": "shader_list-kid-with-sword.tsv",
    "watch": [
