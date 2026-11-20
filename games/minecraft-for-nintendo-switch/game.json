@@ -1,0 +1,27 @@
+{
+ "title_id": "0100D71004694000",
+ "name": "Minecraft for Nintendo Switch",
+ "version": "1.26.62",
+ "console": "switch",
+ "check": "daily",
+ "builds": [
+  {
+   "id": "nxnative",
+   "name": "nxnative",
+   "versions": [
+    "v10747904"
+   ],
+   "version_names": {
+    "v10747904": "1.26.62"
+   },
+   "engine": {
+    "kind": "nxnative",
+    "repo": "https://github.com/seedds/nxnative",
+    "commit": "905de42a73e9353e38b77004348b88658277215a"
+   },
+   "shader_list": "shader_list.tsv",
+   "about": "nxnative's profile (1.26.62) with Hermit's overlay and key-2 settings: see its notes for how far it plays."
+  }
+ ],
+ "disk_gb": 30
+}
