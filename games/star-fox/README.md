@@ -10,7 +10,7 @@ Built with [upstream nxnative](https://github.com/seedds/nxnative)'s own builder
 
 | What | |
 |---|---|
-| Profile and notes | [nxnative `dm/games/0400E88025B1A000`](https://github.com/seedds/nxnative/tree/78bd42b9ea96adb9b9ebc01dc33eb721633d0f5c/dm/games/0400E88025B1A000) |
+| Profile and notes | [nxnative `dm/games/0400E88025B1A000`](https://github.com/seedds/nxnative/tree/098f76ab2ec503e7f005f299ade76dae1d9d09f8/dm/games/0400E88025B1A000) |
 | Dump folder | `base/` and `updates/131072/` (the game files are one 14.5 GB archive, `data.zip`) |
 | Shaders | about 2,900, so a short shader build |
 | Verified by nxnative | on an M4 Pro with 48 GB: the title, the prologue cinematic and the tutorial flight, with sound; the 3D is drawn at a low resolution and upscaled, as on the Switch 2 |
