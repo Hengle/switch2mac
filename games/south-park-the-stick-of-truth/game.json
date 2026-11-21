@@ -1,0 +1,27 @@
+{
+ "title_id": "010095300B6A4000",
+ "name": "South Park: The Stick of Truth",
+ "version": "1.01",
+ "console": "switch",
+ "check": "daily",
+ "builds": [
+  {
+   "id": "nxnative",
+   "name": "nxnative",
+   "versions": [
+    "v65536"
+   ],
+   "version_names": {
+    "v65536": "1.01"
+   },
+   "engine": {
+    "kind": "nxnative",
+    "repo": "https://github.com/seedds/nxnative",
+    "commit": "fc09c9bcab8b045e64a0e9f1645723b1f02de992"
+   },
+   "shader_list": "shader_list.tsv",
+   "about": "nxnative's profile (1.01) with Hermit's overlay and key-2 settings: see its notes for how far it plays."
+  }
+ ],
+ "disk_gb": 30
+}
