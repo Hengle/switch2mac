@@ -10,7 +10,7 @@
    "engine": {
     "kind": "macnativegames",
     "repo": "https://github.com/ly05010419/MacNativeGames",
-    "commit": "daba6a65016848eee0dc49070d311d4f52924b20"
+    "commit": "f86d2bafb23feb53d2f7f618993b28d0403a7054"
    },
    "shader_list": "shader_list-macnativegames.tsv",
    "watch": [
