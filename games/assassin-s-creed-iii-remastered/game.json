@@ -1,0 +1,27 @@
+{
+ "title_id": "01007F600B134000",
+ "name": "Assassin's Creed® Ⅲ Remastered",
+ "version": "1.0.0",
+ "console": "switch",
+ "check": "daily",
+ "builds": [
+  {
+   "id": "nxnative",
+   "name": "nxnative",
+   "versions": [
+    "v0"
+   ],
+   "version_names": {
+    "v0": "1.0.0"
+   },
+   "engine": {
+    "kind": "nxnative",
+    "repo": "https://github.com/seedds/nxnative",
+    "commit": "c2badd9fc8a1076372be48fb3ef8ac01fe7e3184"
+   },
+   "shader_list": "shader_list.tsv",
+   "about": "nxnative's profile (1.0.0) with Hermit's overlay and key-2 settings: see its notes for how far it plays."
+  }
+ ],
+ "disk_gb": 30
+}
